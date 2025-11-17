@@ -1,0 +1,11 @@
+.movie-details {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.movie-details img {
+    width: 200px;
+    border-radius: 10px;
+}

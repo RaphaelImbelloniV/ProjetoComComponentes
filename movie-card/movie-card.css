@@ -1,0 +1,18 @@
+.movie-card {
+    width: 180px;
+    padding: 10px;
+    background: #fafafa;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.movie-card:hover {
+    background: #ececec;
+}
+
+.movie-card img {
+    width: 100%;
+    border-radius: 10px;
+}
